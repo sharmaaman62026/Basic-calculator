@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { CalcContext } from '../context/CalcContext'
+import { CalcContext } from 'CalcContext'
 
 const getStyleName = btn => {
   const className = {
