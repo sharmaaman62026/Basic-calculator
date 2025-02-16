@@ -1,8 +1,8 @@
-import Wrapper from "./components/Wrapper";
-import Screen from "./components/Screen";
-import ButtonBox from './components/ButtonBox'
-import Button from './components/Button'
-import CalcProvider from "./context/CalcContext";
+import Wrapper from "./Wrapper";
+import Screen from "./Screen";
+import ButtonBox from './ButtonBox'
+import Button from './Button'
+import CalcProvider from "./CalcContext";
 
 const btnValues = [
   ["C", "+/-", "%", "/"],
